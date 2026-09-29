@@ -11,3 +11,5 @@ after doing a little research on FiveM/RedM, you should know:
 So this script is not really to 'sync' it globally , just make sure every client to check the state from server side (every train init event send table to server includes entity Network IDs)
 when the data on server side is invalid, just trigger initMissionTrain event to spawn trolleys and send the data to server side again, that's the principle of the script.
 Setting a entity as a mission entity to make sure it cant be recycled by game engine automatically. and the trolley route is scripted by client itself.
+
+<h4>*as soon as client register a local entity as mission entity, then it will keep exist and valid till disconnect or delete it manually.*</h4>
