@@ -1,6 +1,6 @@
 <h4>What is this ?</h4>
 
-It's a part of 'rdc_npc' (which is private for my project Red Dead Chronicles), make it possible to 'sync' train&trolley(whatever you call it)
+It's a part of 'rdc_npc' (which is private for my project), make it possible to 'sync' train&trolley(whatever you call it)
 I split it up from the script so this is the WAY not the full solution.
 
 <h4>What you should know?</h4>
